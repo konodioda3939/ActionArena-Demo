@@ -87,7 +87,7 @@ Assets/
 
 ## AIGC 资产管线
 
-本 Demo 的美术资产由一条自研 AIGC 管线产出（Stable Diffusion + LoRA / ControlNet / LCM、TripoSR 图生 3D、StableMaterials PBR 材质、MoMask 文本生成动作），经 Blender headless 减面 / 展 UV / LOD 后导入 Unity。管线代码见独立仓库。
+本 Demo 的美术资产由一条自研 AIGC 管线产出（Stable Diffusion + LoRA / ControlNet / LCM、TripoSR 图生 3D、StableMaterials PBR 材质、MoMask 文本生成动作），经 Blender headless 减面 / 展 UV / LOD 后导入 Unity。管线代码见 👉 [aigc-game-asset-pipeline](https://github.com/konodioda3939/aigc-game-asset-pipeline)。
 
 ## 环境
 
